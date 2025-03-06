@@ -1,5 +1,3 @@
-<h1 align="center">Hey there, I'm</h1>
-
 <p align="center">
   <img src="https://github.com/LeMagicienToz/LeMagicienToz/blob/main/LeMagicienToz.png" alt="Banner" width="800"/>
 </p>
