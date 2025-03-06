@@ -12,7 +12,7 @@
 🔹 [Minishell](repo link) - *Create a small shell that can handle a lot of commands.*  
 
 ### 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeMagicienToz&show_icons=true&theme=tokyonight)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeMagicienToz)](https://github.com/LeMagicienToz/github-profile-trophy)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeMagicienToz&layout=compact&theme=tokyonight)
 
 ### 🔗 Connect with Me :
