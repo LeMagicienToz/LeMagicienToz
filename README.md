@@ -2,7 +2,7 @@
   <img src="https://github.com/LeMagicienToz/LeMagicienToz/blob/main/LeMagicienToz.png" alt="Banner" width="800"/>
 </p>
 
-Hi I'm Maxime Uteza 
+**Hi I'm Maxime Uteza** 
 ### 🛠️ About Me :
 💻 Passionate developer working with **Github, C, C++, Docker, React, JavaScript**  
 📚 Currently studying at **42**  
