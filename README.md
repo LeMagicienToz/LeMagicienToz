@@ -5,9 +5,9 @@
 </p>
 
 ### 🛠️ About Me :
-💻 Passionate developer working with **[technologies you use]**  
+💻 Passionate developer working with **Github, C, C++, Docker, React, JavaScript**  
 📚 Currently studying at **42**  
-🎯 Goal: Become a freelance developer and build amazing projects  
+🎯 Goal: Become a strong developper and build amazing projects  
 
 ### 🚀 My Projects :
 🔹 [Project Name 1](repo link) - *Short description*  
@@ -15,8 +15,8 @@
 🔹 [Project Name 3](repo link) - *Short description*  
 
 ### 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeMagicienToz&show_icons=true&theme=tokyonight)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeMagicienToz&layout=compact&theme=tokyonight)
 
 ### 🔗 Connect with Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
