@@ -19,9 +19,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeMagicienToz&layout=compact&theme=tokyonight)
 
 ### 🔗 Connect with Me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/maxime-uteza-26a280266/])
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=firefox)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/maxime-uteza-26a280266/)
 
 ### ⚡ Fun Facts :
 - 🚀 Always learning new technologies  
