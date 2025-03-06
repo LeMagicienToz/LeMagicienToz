@@ -10,8 +10,8 @@
 🎯 Goal: Become a strong developper and build amazing projects  
 
 ### 🚀 My Projects :
-🔹 [Project Name 1](repo link) - *Short description*  
-🔹 [Project Name 2](repo link) - *Short description*  
+🔹 [Ft_Transcendance](repo link) - *Make a website with a pong(the game)*  
+🔹 [Minishell](repo link) - *Make a "little shell" that can handle lot of command*  
 🔹 [Project Name 3](repo link) - *Short description*  
 
 ### 📊 GitHub Stats :
