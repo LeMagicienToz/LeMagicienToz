@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <img src="https://your-banner-url.com" alt="Banner" width="800"/>
+  <img src="[https://your-banner-url.com](https://github.com/LeMagicienToz/LeMagicienToz/blob/main/LeMagicienToz.png)" alt="Banner" width="800"/>
 </p>
 
 ### 🛠️ About Me :
