@@ -9,7 +9,7 @@
 🎯 Goal: Become a strong developper and build amazing projects  
 
 ### 🚀 My Projects :
-🔹 [Ft_Transcendance](repo link) - *Create a website that features a pong game.*  
+🔹 [Ft_Transcendance]([repo link](https://github.com/LeMagicienToz/42_Common_Core/tree/main/ft_transcendance)) - *Create a website that features a pong game.*  
 🔹 [Minishell]([repo link](https://github.com/LeMagicienToz/42_Common_Core/tree/main/minishell)) - *Create a small shell that can handle a lot of commands.*  
 
 ### 📊 GitHub Stats :
