@@ -10,7 +10,7 @@
 
 ### 🚀 My Projects :
 🔹 [Ft_Transcendance](repo link) - *Create a website that features a pong game.*  
-🔹 [Minishell](repo link) - *Create a small shell that can handle a lot of commands.*  
+🔹 [Minishell]([repo link](https://github.com/LeMagicienToz/42_Common_Core/tree/main/minishell)) - *Create a small shell that can handle a lot of commands.*  
 
 ### 📊 GitHub Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=LeMagicienToz)](https://github.com/LeMagicienToz/github-profile-trophy)
