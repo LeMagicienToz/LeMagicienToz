@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LeMagicienToz/LeMagicienToz/blob/main/LeMagicienToz.png" alt="Banner" width="800"/>
+  <img src="https://github.com/LeMagicienToz/LeMagicienToz/blob/main/Muteza.png" alt="Banner" width="800"/>
 </p>
 
 **Hi I'm Maxime Uteza** 
