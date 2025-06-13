@@ -4,7 +4,7 @@
 
 **Hi I'm Maxime Uteza** 
 ### 🛠️ About Me :
-💻 Passionate developer working with **Github, C, C++, Docker, React, JavaScript**  
+💻 Passionate developer working with **Git, C, C++, Docker, React, JavaScript, ThreeJs**  
 📚 Currently studying at **42**  
 🎯 Goal: Become a strong developper and build amazing projects  
 
