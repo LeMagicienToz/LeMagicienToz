@@ -9,11 +9,11 @@
 🎯 Goal: Become a strong developper and build amazing projects  
 
 ### 🚀 My Projects :
-🔹 [Ft_Transcendance]([repo link](https://github.com/LeMagicienToz/42_Common_Core/tree/main/ft_transcendance)) - *Create a website that features a pong game.*  
-🔹 [Minishell]([repo link](https://github.com/LeMagicienToz/42_Common_Core/tree/main/minishell)) - *Create a small shell that can handle a lot of commands.*  
+🔹 [Ft_Transcendance]([repo link](https://github.com/KappaIsBetter/42_Common_Core/tree/main/ft_transcendance)) - *Create a website that features a pong game.*  
+🔹 [Minishell]([repo link](https://github.com/KappaIsBetter/42_Common_Core/tree/main/minishell)) - *Create a small shell that can handle a lot of commands.*  
 
 ### 📊 GitHub Stats :
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeMagicienToz&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KappaIsBetter&layout=compact&theme=tokyonight)
 
 ### 🔗 Connect with Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/maxime-uteza-26a280266/)
